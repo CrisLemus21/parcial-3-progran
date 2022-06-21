@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pplemus", "pplemus\pplemus.csproj", "{6C567F89-8838-467C-8A6A-755937956B0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C567F89-8838-467C-8A6A-755937956B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C567F89-8838-467C-8A6A-755937956B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C567F89-8838-467C-8A6A-755937956B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C567F89-8838-467C-8A6A-755937956B0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABA46499-130D-4B5D-A2DE-BD9E151D4C61}
+	EndGlobalSection
+EndGlobal

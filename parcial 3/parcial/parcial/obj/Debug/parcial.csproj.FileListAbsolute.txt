@@ -1,0 +1,16 @@
+C:\Users\domi2\source\repos\parcial\parcial\bin\Debug\parcial.exe.config
+C:\Users\domi2\source\repos\parcial\parcial\bin\Debug\parcial.exe
+C:\Users\domi2\source\repos\parcial\parcial\bin\Debug\parcial.pdb
+C:\Users\domi2\source\repos\parcial\parcial\bin\Debug\EntityFramework.dll
+C:\Users\domi2\source\repos\parcial\parcial\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\domi2\source\repos\parcial\parcial\bin\Debug\EntityFramework.xml
+C:\Users\domi2\source\repos\parcial\parcial\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\domi2\source\repos\parcial\parcial\obj\Debug\parcial.csproj.AssemblyReference.cache
+C:\Users\domi2\source\repos\parcial\parcial\obj\Debug\parcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\domi2\source\repos\parcial\parcial\obj\Debug\parcial.Form1.resources
+C:\Users\domi2\source\repos\parcial\parcial\obj\Debug\parcial.Properties.Resources.resources
+C:\Users\domi2\source\repos\parcial\parcial\obj\Debug\parcial.csproj.GenerateResource.cache
+C:\Users\domi2\source\repos\parcial\parcial\obj\Debug\parcial.csproj.CoreCompileInputs.cache
+C:\Users\domi2\source\repos\parcial\parcial\obj\Debug\parcial.csproj.CopyComplete
+C:\Users\domi2\source\repos\parcial\parcial\obj\Debug\parcial.exe
+C:\Users\domi2\source\repos\parcial\parcial\obj\Debug\parcial.pdb
